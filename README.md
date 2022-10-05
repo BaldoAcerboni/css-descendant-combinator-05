@@ -1,1 +1,2 @@
 # css-descendant-combinator-05
+Of all the p elements in index.html only the ones which are descendant of a div element should be styled with yellow background, red text, font-size of 20px and center aligned.
